@@ -1,0 +1,42 @@
+main{
+    width: 800px;
+    background-color: rgb(116, 97, 133);
+    opacity: 1;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1{
+   text-align: center;
+   color: rgb(54, 24, 83);
+   box-shadow: 0 5px 10px rgb(38, 15, 60);
+   padding: 10px 0;
+   font-family: Garamond, serif;
+   font-size: 35px;
+}
+
+img{
+  width: 300px;
+  height: auto;
+  display: block;
+   margin: 3px auto;
+   border-radius: 15px;
+   box-shadow: 0 5px 10px rgb(38, 15, 60);
+}
+ul{
+    list-style-type: square;
+}
+p{
+    font-family: Garamond, serif;
+    font-size: 18px;
+}
+h2{
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(28, 18, 36);
+    font-family: "Courier New", Courier, monospace;
+}
+h3{
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(28, 18, 36);
+    font-family: "Courier New", Courier, monospace;
+}
